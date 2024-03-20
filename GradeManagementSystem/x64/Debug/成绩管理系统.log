@@ -1,0 +1,65 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(成绩管理系统.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  2.cpp
+  BuildAndDelete.cpp
+  Locale.cpp
+  ReadToList.cpp
+D:\VisualStudio\Code\GradeManagementSystem\BuildAndDelete.cpp(20,18): error C3861: “SeekClass”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\BuildAndDelete.cpp(37,2): error C3861: “InitializeStudentMarks”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\BuildAndDelete.cpp(33,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(102,4): warning C4474: fscanf: 格式字符串中传递的参数太多
+  D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(102,4):
+  占位符和其参数预计 15 可变参数，但提供的却是 18 参数
+  
+D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(70,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(73,2): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(81,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(83,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(88,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(90,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(96,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(112,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\ReadToList.cpp(116,3): warning C4996: 'fwscanf': This function or variable may be unsafe. Consider using fwscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  CreateNet.cpp
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(67,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(162,4): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(176,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(197,18): error C3861: “SeekCollege”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(218,18): error C3861: “SeekClass”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(244,18): error C3861: “SeekCollege”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(265,19): error C3861: “ClassGet”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(281,21): error C3861: “CollegeGet”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(299,19): error C3861: “GradeGet”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(324,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(331,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(341,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(346,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(351,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(355,16): error C3861: “CollegeGet”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(358,50): error C2065: “bonus”: 未声明的标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(366,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(376,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(381,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(386,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(391,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(395,16): error C3861: “CollegeGet”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(398,56): error C2065: “bonus”: 未声明的标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(406,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(416,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(421,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(426,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(430,16): error C3861: “CollegeGet”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(433,56): error C2065: “bonus”: 未声明的标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(451,14): error C3861: “GradeGet”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(452,2): error C3861: “DeleteStudent”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(453,20): error C3861: “SeekCollege”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(460,20): error C3861: “addStudent”: 找不到标识符
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(462,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\CreateNet.cpp(464,2): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  1.cpp
+D:\VisualStudio\Code\GradeManagementSystem\1.cpp(143,4): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Search.cpp
+D:\VisualStudio\Code\GradeManagementSystem\Search.cpp(57,8): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\VisualStudio\Code\GradeManagementSystem\Search.cpp(65,8): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TransformNumToChar.cpp
+  正在生成代码...
+D:\VisualStudio\Code\GradeManagementSystem\TransformNumToChar.cpp(17): warning C4715: “GradeGet”: 不是所有的控件路径都返回值
